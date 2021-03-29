@@ -2,7 +2,6 @@
 # User can do the following:
 #       - input words and its meaning
 #       - update word meaning
-#       - delete existing words and its meanings
 
 import os
 from colorama import Fore, Back, Style
