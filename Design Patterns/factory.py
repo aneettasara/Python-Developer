@@ -1,4 +1,4 @@
-# Factory Pattern
+# Factory - Creational Pattern
 
 class Dog:
     def __init__(self, name):
