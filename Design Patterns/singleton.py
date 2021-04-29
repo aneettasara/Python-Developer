@@ -1,4 +1,4 @@
-# Singleton using Borg Design Pattern
+# Singleton using Borg Design Pattern - Creational Pattern
 
 class Borg:
     _shared_data = {} # Attribute dictionary is Private
