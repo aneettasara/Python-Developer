@@ -1,4 +1,4 @@
-# Abstract and Concrete Factory
+# Abstract and Concrete Factory - Creational Pattern
 # Abstract and Concrete Products
 
 class Dog:
