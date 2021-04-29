@@ -1,4 +1,4 @@
-# Builder
+# Builder - Creational Pattern
 
 # Director
 class Director():     
